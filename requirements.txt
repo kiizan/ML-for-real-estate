@@ -1,0 +1,9 @@
+matplotlib @ file:///croot/matplotlib-suite_1693812469450/work
+matplotlib-inline @ file:///work/ci_py311/matplotlib-inline_1676823841154/work
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+numpydoc @ file:///work/ci_py311/numpydoc_1676845056742/work
+pandas @ file:///croot/pandas_1692289311655/work
+scikit-learn @ file:///croot/scikit-learn_1690978916802/work
+scikit-learn-intelex==20230426.111612
+scipy @ file:///croot/scipy_1691606680890/work/dist/scipy-1.11.1-cp311-cp311-linux_x86_64.whl#sha256=ba491c7d30a02bb93027e90b0aa58c0fe8d1e0fc3ddfe3469178740bd150aa45
+seaborn @ file:///work/ci_py311/seaborn_1676845747354/work
